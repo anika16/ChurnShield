@@ -16,7 +16,7 @@ Quick start:
    python src/scripts/train_pipeline.py
 
 5. Start API:
-  RUN E:\ChurnShield\ChurnShield>  python -m api.app
+  Inside ChurnShield\ChurnShield>  python -m api.app
 
 6. Start dashboard:
    Inside ChurnShield\ChurnShield> python -m streamlit run dashboard/dashboard_app.py
